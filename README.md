@@ -15,6 +15,14 @@ cd ~/.oh-my-zsh/custom/plugins
 git clone https://github.com/MohamedElashri/exa-zsh
 ```
 
+or 
+
+```
+cd $ZSH_CUSTOM/plugins/
+git clone https://github.com/MohamedElashri/exa-zsh
+```
+
+
 3. Add the plugin to `/.zshrc`
 
    You should add `exa-zsh` to the plugin list 
