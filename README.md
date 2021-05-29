@@ -16,9 +16,9 @@ git clone https://github.com/MohamedElashri/exa-zsh
 
 3. Add the plugin to `/.zshrc`
 
-You should add `exa-zsh` to the plugin list 
+   You should add `exa-zsh` to the plugin list 
 
-plugins=(... exa-zsh)
+   plugins=(... exa-zsh)
 
 4. Restart the terminal session
 
