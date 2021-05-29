@@ -1,5 +1,6 @@
 # exa-zsh
 [Exa](https://github.com/ogham/exa) aliases plugin for zsh. 
+
 This plugin defines useful aliases that can be used for `exa` the moden alternative of `ls`. 
 
 ## Install
