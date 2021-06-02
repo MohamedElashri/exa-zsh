@@ -53,7 +53,7 @@ Insert gif or link to demo
 
   
 ## Usage/Examples
-This project contain some useful aliasses that you can run in your terminal that zsh supported like `Iterm2`. 
+This project contain some useful aliasses that you can run in your terminal that zsh supported like `ITerm2`. 
 
 You can type in the alias in your terminal. This is a list of available aliasses.
 
