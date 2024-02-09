@@ -33,24 +33,6 @@ git clone https://github.com/MohamedElashri/exa-zsh
    `plugins=(... exa-zsh)`
 
 4. Restart the terminal session
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Screenshot
-
-Insert gif or link to demo
-
   
 ## Usage/Examples
 This project contain some useful aliasses that you can run in your terminal that zsh supported like `ITerm2`. 
