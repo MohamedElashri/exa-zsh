@@ -1,7 +1,7 @@
 # Project:  exa-zsh
 # File:     exa-zsh-plugin.zsh
 # Author:   Mohamed Elashri
-# Email:    muhammadelashri@gmail.com
+# Email:    me@elashri.com
 
 
 if ! (( $+commands[exa] )); then
